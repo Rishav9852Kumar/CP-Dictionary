@@ -1,6 +1,10 @@
 import java.io.*;
 import java.util.*;
+<<<<<<< HEAD
 //Java code for BFS
+=======
+
+>>>>>>> upstream/master
 public class bfs {
     public static void main(String[] args) {
         InputStream inputStream = System.in;
